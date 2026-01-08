@@ -45,7 +45,7 @@ I build fast, clean web interfaces and practical automation systems that help bu
 
 ## 🔗 Connect With Me
 
-- 🌐 Website: https://rymdixtech.com  
+- 🌐 Website: https://rymdix.com  
 - 💼 LinkedIn: (https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
 - 🐦 X: https://x.com/RymdixTech
 
