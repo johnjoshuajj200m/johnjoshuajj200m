@@ -1,10 +1,8 @@
-
-
 # 👋 Hi, I’m John
 
-**Web Apps • Automation • Frontend**
+**Frontend • Web Apps • Automation**
 
-I build fast, clean web interfaces and practical automation systems that help businesses move faster and scale smarter.
+I build fast, clean, and maintainable web interfaces, along with practical automation systems that help businesses move faster and scale efficiently.
 
 ---
 
@@ -30,13 +28,13 @@ I build fast, clean web interfaces and practical automation systems that help bu
 
 ## 🎯 Current Focus
 
-- Building production-ready web apps
-- Automation for internal tools and workflows
-- Clean UI, performance, and maintainability
+- Building production-ready web applications  
+- Developing automation for internal tools and workflows  
+- Writing clean, performant, and maintainable UI code  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjoshuajj200m&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnjoshuajj200m&layout=compact&theme=dark)
@@ -46,6 +44,5 @@ I build fast, clean web interfaces and practical automation systems that help bu
 ## 🔗 Connect With Me
 
 - 🌐 Website: https://rymdix.com  
-- 💼 LinkedIn: (https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+- 💼 LinkedIn: https://www.linkedin.com/in/john-joshua-829686377/  
 - 🐦 X: https://x.com/RymdixTech
-
