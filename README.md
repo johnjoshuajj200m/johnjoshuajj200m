@@ -2,89 +2,73 @@
 
 **Frontend Developer • Digital Operations • AI-Assisted Workflows**
 
-## About Me
+I’m an Information Technology student with hands-on experience building web interfaces and supporting real business operations. I work with **React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, and Vite**, and I use AI tools for research, troubleshooting, writing, planning, and faster problem-solving.
 
-I’m an Information Technology student from Nigeria, currently based in Togo, with hands-on experience across **frontend web development, digital operations, international customer communication, research, and AI-assisted workflows**.
+My background also includes international customer and business communication, follow-ups, documentation support, online research, payment discussions, and operational coordination. I’m most interested in opportunities where I can combine technical skills with real customer or business problems.
 
-I build practical web interfaces and digital tools, and I’m especially interested in projects where technology solves a real business or operational problem. Alongside development, I’ve worked with international customers, suppliers, clients, and business partners through email, WhatsApp, and other digital channels — handling follow-ups, documentation requests, payment discussions, customer concerns, business updates, and operational coordination.
-
-I also use AI tools for research, writing, troubleshooting, information organization, planning, and improving digital workflows. My goal is to keep strengthening my technical skills while contributing to real products, customer-facing systems, internal tools, and automation projects.
-
-I’m open to **remote internships and junior opportunities worldwide** where I can contribute, learn quickly, and take ownership of real work.
+**Open to remote internships and junior opportunities worldwide.**
 
 ---
 
-## 🚀 What I Bring
-
-- Build and improve frontend interfaces with **HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS**
-- Use **AI tools** for research, troubleshooting, information organization, writing, planning, and web-development support
-- Communicate with **international customers, suppliers, clients, and business partners** through email, WhatsApp, and other digital channels
-- Handle follow-ups, documentation requests, payment discussions, customer concerns, business updates, and operational coordination
-- Research markets, competitors, logistics, regulations, and business opportunities, then organize findings into practical next steps
-- Create and edit digital graphics and branded content using **Adobe Photoshop**
-- Work independently, learn new tools quickly, and stay effective across different time zones and remote workflows
-
----
-
-## 🧰 Technical Stack
+## 🧰 Skills
 
 **Frontend**  
-React • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • Vite
+React • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • Vite
 
-**Backend / App Development**  
-Node.js • Express • REST API concepts • Supabase
+**Web / App Tools**  
+Next.js • Supabase • Git • GitHub • Vercel • REST API concepts
 
-**Tools & Workflow**  
-Git • GitHub • GitHub Actions • Docker • Linux • Google Docs • Google Drive • Microsoft Word
-
-**AI & Productivity**  
-AI-assisted research • Prompt development • Information organization • Web troubleshooting • Content workflows
+**AI & Digital Operations**  
+AI-assisted research • Prompt development • Web troubleshooting • Information organization • Business research • Digital workflows
 
 **Creative**  
 Adobe Photoshop • Image editing • Social media graphics • Digital branding
+
+**Currently learning more about**  
+Node.js • Express • Linux • Cloud Computing • DevOps • Networking • Cloud Security
 
 ---
 
 ## 🔥 Featured Projects
 
+### Yohriae NGO Website — Real Organization Project
+**Admin Dashboard • Content Management • Stripe Donations • Vercel • Lovable-assisted UI**
+
+A live website I worked on for a Nigeria-based NGO. I used Lovable to assist with the initial UI, then continued the design and implementation work myself to support the organization’s real operational needs.
+
+**What I worked on:**
+- Admin dashboard for internal content management
+- Add and delete post functionality
+- Stripe-powered online donation flow
+- Public-facing responsive website
+- Live deployment on Vercel
+
+🔗 **Live:** https://yohriae-website.vercel.app/
+
 ### Rymdix Technologies
 **React • TypeScript • Vite • Tailwind CSS • Supabase • Vercel**
 
-A full web platform for a software and automation brand, including a public website, service pages, blog functionality, contact flows, and an admin dashboard structure for managing content, leads, and analytics.
+A web platform for a software and automation brand with a public site and admin functionality.
 
+**What it includes:**
 - Responsive React interface
-- Supabase-backed content and authentication architecture
-- Blog, services, leads, and admin dashboard structure
-- Vercel deployment workflow
+- Supabase-backed authentication and data structure
+- Blog and service content management
+- Lead management and admin dashboard structure
+- Vercel deployment
 
 🔗 **Live:** https://rymdix-launchpad1.vercel.app  
 💻 **Code:** https://github.com/johnjoshuajj200m/rymdix-launchpad1
 
-### Yohriae NGO Website
-**Lovable-assisted UI • Admin Dashboard • Content Management • Stripe Donations • Vercel**
-
-A live website I worked on for a Nigeria-based NGO. I used Lovable to help with the initial UI and then continued the design and implementation work myself, focusing on making the site useful for the organization’s day-to-day needs.
-
-The platform includes an admin area that allows the organization to manage its own content, including adding and deleting posts. It also includes a Stripe-powered donation flow so supporters can contribute financially online.
-
-- Built for a real NGO organization in Nigeria
-- Admin dashboard for internal content management
-- Add and delete post functionality
-- Online donation flow using Stripe
-- Deployed for live public use
-- Continued UI and product implementation after the initial Lovable-assisted interface
-
-🔗 **Live:** https://yohriae-website.vercel.app/
-
 ### FlowPilot SaaS Landing Page
 **HTML5 • CSS3 • Vanilla JavaScript**
 
-A responsive SaaS landing page focused on clean product presentation, accessibility, performance, and interactive UI behavior.
+A responsive SaaS product interface built to demonstrate frontend fundamentals, accessibility, performance, and interactive UI behavior.
 
-- Mobile-first responsive layout
+- Responsive mobile-first layout
 - Pricing toggle and interactive components
-- Form validation and smooth-scroll behavior
-- Accessibility-focused markup and keyboard support
+- Form validation and smooth scrolling
+- Keyboard accessibility and semantic markup
 - SEO metadata and structured data
 
 🔗 **Live:** https://johnjoshuajj200m.github.io/flowpilot-saas-landing/  
@@ -93,62 +77,38 @@ A responsive SaaS landing page focused on clean product presentation, accessibil
 ### Fintech Landing Page
 **HTML5 • CSS3 • JavaScript**
 
-A clean fintech-style interface designed around clear navigation, responsive layouts, product messaging, FAQs, and customer-facing conversion sections.
+A responsive fintech-style interface with product messaging, FAQ interactions, navigation, and customer-facing conversion sections.
 
 🔗 **Live:** https://johnjoshuajj200m.github.io/fintech-landing-page/  
 💻 **Code:** https://github.com/johnjoshuajj200m/fintech-landing-page
 
-### Portfolio Website
-**React • TypeScript • Vite • Tailwind CSS • Framer Motion**
+---
 
-A modern portfolio interface built with reusable React components, responsive layouts, animation, and a contact workflow using EmailJS.
+## 💼 Business & Customer Experience
 
-💻 **Code:** https://github.com/johnjoshuajj200m/AJ-portfolio-
+Alongside development, I have hands-on experience communicating with international customers, suppliers, clients, and business partners through email, WhatsApp, and other digital channels.
+
+My work has included **customer follow-ups, documentation requests, payment discussions, invoice checks, business updates, online research, information coordination, and resolving communication gaps** across different countries and time zones.
+
+This background helps me think about software from both the **user side and the technical side**.
 
 ---
 
-## 💼 Experience Beyond Code
+## 🎯 What I’m Building Toward
 
-### Business Operations & International Customer Communication
-I have hands-on experience supporting international customers, suppliers, clients, and business partners through digital channels. My work has included:
-
-- Customer and partner follow-ups
-- Documentation requests and business updates
-- Payment discussions and invoice checks
-- Coordinating information between multiple parties
-- Researching logistics, regulations, international markets, and operational requirements
-- Helping resolve communication gaps and keeping business processes moving
-
-### AI & Digital Productivity
-I use AI tools as practical work tools, not just for experimentation. I apply them to:
-
-- Research and information organization
-- Business planning and structured problem-solving
-- Writing and refining professional communication
-- Web-development troubleshooting
-- Content workflows and digital projects
-
-### Graphic Design & Content Editing
-I also work with Adobe Photoshop for photo editing, digital graphics, branded visuals, social media content, and promotional materials.
-
----
-
-## 🎯 Current Focus
-
-- Strengthening my frontend and full-stack development skills through real projects
-- Building better dashboards, internal tools, and customer-facing applications
-- Learning more about cloud computing, Linux, DevOps, networking, and cloud security
-- Combining technical skills with customer support, operations, and AI-assisted workflows
+- Stronger production-ready frontend applications
+- Dashboards and internal business tools
+- Customer-facing digital products
+- AI-assisted workflows and automation
+- Deeper cloud, DevOps, and backend knowledge
 
 ---
 
 ## 🌍 Open To
 
-Remote internships and junior opportunities in:
+**Frontend Development • Software Engineering Internships • Technical / Customer Support • Customer Success • Digital Operations • AI Operations • Cloud / DevOps Internships**
 
-**Frontend Development • Software Engineering • Customer Support • Customer Success • Digital Operations • AI Operations • Cloud / DevOps**
-
-I’m comfortable working with international teams and across time zones.
+Remote and international opportunities welcome.
 
 ---
 
