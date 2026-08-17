@@ -2,9 +2,15 @@
 
 **Frontend Developer • Digital Operations • AI-Assisted Workflows**
 
-I’m an Information Technology student building practical web interfaces and digital tools while bringing hands-on experience in customer communication, business operations, research, and AI-assisted productivity.
+## About Me
 
-I’m especially interested in work where **technology meets real business problems** — dashboards, customer-facing products, internal tools, workflow improvements, and AI-supported operations.
+I’m an Information Technology student from Nigeria, currently based in Togo, with hands-on experience across **frontend web development, digital operations, international customer communication, research, and AI-assisted workflows**.
+
+I build practical web interfaces and digital tools, and I’m especially interested in projects where technology solves a real business or operational problem. Alongside development, I’ve worked with international customers, suppliers, clients, and business partners through email, WhatsApp, and other digital channels — handling follow-ups, documentation requests, payment discussions, customer concerns, business updates, and operational coordination.
+
+I also use AI tools for research, writing, troubleshooting, information organization, planning, and improving digital workflows. My goal is to keep strengthening my technical skills while contributing to real products, customer-facing systems, internal tools, and automation projects.
+
+I’m open to **remote internships and junior opportunities worldwide** where I can contribute, learn quickly, and take ownership of real work.
 
 ---
 
@@ -53,6 +59,22 @@ A full web platform for a software and automation brand, including a public webs
 
 🔗 **Live:** https://rymdix-launchpad1.vercel.app  
 💻 **Code:** https://github.com/johnjoshuajj200m/rymdix-launchpad1
+
+### Yohriae NGO Website
+**Lovable-assisted UI • Admin Dashboard • Content Management • Stripe Donations • Vercel**
+
+A live website I worked on for a Nigeria-based NGO. I used Lovable to help with the initial UI and then continued the design and implementation work myself, focusing on making the site useful for the organization’s day-to-day needs.
+
+The platform includes an admin area that allows the organization to manage its own content, including adding and deleting posts. It also includes a Stripe-powered donation flow so supporters can contribute financially online.
+
+- Built for a real NGO organization in Nigeria
+- Admin dashboard for internal content management
+- Add and delete post functionality
+- Online donation flow using Stripe
+- Deployed for live public use
+- Continued UI and product implementation after the initial Lovable-assisted interface
+
+🔗 **Live:** https://yohriae-website.vercel.app/
 
 ### FlowPilot SaaS Landing Page
 **HTML5 • CSS3 • Vanilla JavaScript**
