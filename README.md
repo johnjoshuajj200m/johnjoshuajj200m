@@ -154,7 +154,6 @@ I’m comfortable working with international teams and across time zones.
 
 ## 🔗 Connect With Me
 
-- 🌐 Website: https://rymdix.com
 - 💼 LinkedIn: https://www.linkedin.com/in/john-joshua-829686377/
-- 🐦 X: https://x.com/RymdixTech
+- 🐦 X: https://x.com/JohnJoshuaMbaya
 - 💻 GitHub: https://github.com/johnjoshuajj200m
